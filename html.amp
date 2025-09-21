@@ -1,0 +1,69 @@
+<!doctype html>
+<html amp lang="id">
+<head>
+  <meta charset="utf-8">
+  <title>DINO128 - Situs Game Online Terbaik & Terpercaya</title>
+  <meta name="description" content="DINO128.NET adalah situs game online terpercaya dengan bonus besar, keamanan terbaik, dan layanan 24 jam.">
+  <link rel="canonical" href="https://www.dino128.net/">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <style amp-boilerplate>body{visibility:hidden}</style>
+  <noscript><style amp-boilerplate>body{visibility:visible}</style></noscript>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <style amp-custom>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0d141f, #1a2838);
+      color: #fff;
+      text-align: center;
+      margin: 0;
+    }
+    header {
+      display: flex;
+      align-items: center;
+      padding: 10px 20px;
+    }
+    header h1 { margin-left: 10px; color: #ffd700; font-size: 20px; }
+    .banner { margin: 20px auto; max-width: 1080px; }
+    .btn {
+      display: inline-block;
+      padding: 15px 40px;
+      margin: 10px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #fff;
+      background: linear-gradient(90deg, #ff4d4d, #17c707ff);
+      border-radius: 50px;
+      text-decoration: none;
+    }
+    .content { max-width: 900px; margin: 20px auto; padding: 10px; text-align: left; }
+    .content h2 { color: #ffd700; }
+    footer { margin-top: 30px; padding: 15px; background: #0d141f; font-size: 14px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <amp-img src="https://ik.imagekit.io/5wqbm4roy/Dino128/logofixdino128.png?updatedAt=1758267363590" width="200" height="80" alt="Logo DINO128"></amp-img>
+  <h1>DINO128 - Situs Game Online Terpercaya</h1>
+</header>
+
+<div class="banner">
+  <amp-img src="https://ik.imagekit.io/5wqbm4roy/Dino128/t-rex%20dino128.jpg?updatedAt=1758424236658" width="1080" height="1080" layout="responsive" alt="Banner DINO128"></amp-img>
+</div>
+
+<div>
+  <a href="https://dino128.pro" class="btn">Masuk</a>
+  <a href="https://dino128.pro" class="btn">Daftar</a>
+</div>
+
+<div class="content">
+  <h2>Tentang DINO128.NET</h2>
+  <p>DINO128.NET hadir dengan konsep modern, sistem keamanan terbaik, dan layanan support 24 jam. Member baru bisa langsung klaim bonus menarik setelah daftar.</p>
+</div>
+
+<footer>
+  <p>© 2025 DINO128.NET. Semua Hak Dilindungi.</p>
+</footer>
+
+</body>
+</html>
